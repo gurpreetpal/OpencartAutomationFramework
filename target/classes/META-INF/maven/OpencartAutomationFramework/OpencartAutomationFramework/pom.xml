@@ -22,7 +22,7 @@
 					<version>3.5.3</version>
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>masterSuite.xml</suiteXmlFile>
+							<suiteXmlFile>groups.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
